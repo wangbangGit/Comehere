@@ -4,4 +4,3 @@
 
 #### `git status` 查看版本状态
 
-[![asciicast](https://asciinema.org/a/41088.png)](https://asciinema.org/a/41088)

@@ -3,4 +3,5 @@
 
 
 #### `git status` 查看版本状态
-<script type="text/javascript" src="https://asciinema.org/a/41089.js" id="asciicast-41089" async></script>
+
+[![asciicast](https://asciinema.org/a/41089.png)](https://asciinema.org/a/41089)
